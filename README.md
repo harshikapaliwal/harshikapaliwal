@@ -1,6 +1,7 @@
 ## Hi, I'm Harshika
 
-<!--
+<!--<img width="2600" height="782" alt="68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" src="https://github.com/user-attachments/assets/5ce8fe45-d1c0-4009-b25e-b55810943571" />
+
 **harshikapaliwal/harshikapaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
