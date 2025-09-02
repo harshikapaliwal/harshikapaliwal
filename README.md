@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Akash
+
 Data is fun to work with | Data Science Enthusiast
 🙋‍♂️ About Me:
 🔭 I’m currently working on Twitter bot to tweet mood.
