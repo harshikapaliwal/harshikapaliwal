@@ -30,10 +30,4 @@ Data is fun to work with | Data Science Enthusiast
 
 📫 How to reach me harshitapaliwal1195@gmail.com
 
-🚀 Languages and Tools:
-        
-Data is fun to work with | Data Science Enthusiast
-🙋‍♂️ About Me:
-🔭 I’m currently working on Twitter bot to tweet mood.
 
-🌱 I’m currently learning Data Structures and Algorithms.
