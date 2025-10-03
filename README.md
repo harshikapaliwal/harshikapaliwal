@@ -26,9 +26,7 @@ Data is fun to work with | Data Science Enthusiast
 
 👨‍💻 All of my projects are available at My Projects
 
-👨‍💻 All of my assignments are available at My Assignments
 
-📫 How to reach me harshitapaliwal1195@gmail.com
 
 
 
