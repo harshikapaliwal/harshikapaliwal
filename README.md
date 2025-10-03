@@ -32,10 +32,4 @@ Data is fun to work with | Data Science Enthusiast
 
 
 
-Data is fun to work with | Data Science Enthusiast
-🙋‍♂️ About Me:
-🔭 I’m currently working on Twitter bot to tweet mood.
-
-🌱 I’m currently learning Data Structures and Algorithms.
-
 
