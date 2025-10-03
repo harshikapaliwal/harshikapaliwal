@@ -33,4 +33,3 @@ Data is fun to work with | Data Science Enthusiast
 
 
 
-https://docs.google.com/presentation/d/e/2PACX-1vTlv-oNvGuGlXdVzmz90wDmC8mv2VT35MKxFfTH0FWZNNu6DmNf3JCDV2JGwGVWQLiuz7h3rL92nwNg/pub?start=false&loop=false&delayms=60000&slide=id.g35f3f44f5b3_1_0
