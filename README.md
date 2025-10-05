@@ -30,6 +30,6 @@ Data is fun to work with | Data Science Enthusiast
 
 📫 How to reach me harshitapaliwal1195@gmail.com
 
-
+Yes, I have hands-on experience in these areas — I’ve worked on setting up MLOps pipelines with CI/CD, MLflow, Docker, and Kubernetes; built and deployed machine learning and NLP models; and developed scalable ETL and ML workflows on Azure Databricks using Spark, Delta Lake, and Azure integrations.
 
 
