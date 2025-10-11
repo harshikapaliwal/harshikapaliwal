@@ -56,9 +56,3 @@ n
 Adjacency List: Fast to list all neighbours of a vertex, uses less space if few edges, slower to check if 
 (
 i
-,
-j
-)
-(i,j) is an edge.
-
-Choose representation based on problem needs.
