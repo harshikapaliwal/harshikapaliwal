@@ -30,20 +30,4 @@ Data is fun to work with | Data Science Enthusiast
 
 📫 How to reach me harshitapaliwal1195@gmail.com
 
-Comparing Representations
-Explanation:
-
-Adjacency Matrix: Fast to check if 
-(
-i
-,
-j
-)
-(i,j) is an edge (just look up 
-A
-[
-i
-,
-j
-]
 
