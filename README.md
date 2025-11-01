@@ -30,4 +30,5 @@ Data is fun to work with | Data Science Enthusiast
 
 📫 How to reach me harshitapaliwal1195@gmail.com
 
+<img width="1024" height="1021" alt="image" src="https://github.com/user-attachments/assets/a316a1f6-1455-4068-ad51-860623a9450b" />
 
