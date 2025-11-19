@@ -32,7 +32,4 @@ Data is fun to work with | Data Science Enthusiast
 Hey everyone, and welcome to the Omni User Training!
 I’m Harshita, and I’m excited to walk you through all the essentials of the platform.
 In this session, we’ll be using both the slides and the Omni platform so you can see everything in action.
-You’ll also receive the slide deck, so you can follow along with all the links and resources afterward.
-
-Let’s jump in!
 
