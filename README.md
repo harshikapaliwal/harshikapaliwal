@@ -39,4 +39,3 @@ DOB:
 Notice period or LWD:
 Current Location:
 Preferred Location:
-If serving notice period then last working day:
