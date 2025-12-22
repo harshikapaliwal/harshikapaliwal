@@ -40,5 +40,4 @@ Notice period or LWD:
 Current Location:
 Preferred Location:
 
-<img width="1596" height="1117" alt="image" src="https://github.com/user-attachments/assets/feb1e658-e2c1-4740-bceb-a9d7a3f3a1f0" />
-
+<
