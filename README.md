@@ -31,13 +31,4 @@ Data is fun to work with | Data Science Enthusiast
 📫 How to reach me harshitapaliwal1195@gmail.com
 
 
-Total Experience-
-Relevant Experience-
-Current CTC:
-Expected CTC(mention offer in hand):
-DOB:
-Notice period or LWD:
-Current Location:
-Preferred Location:
 
-<
