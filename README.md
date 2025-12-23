@@ -40,21 +40,4 @@ SQL interviews can be tricky! Here are some thought-provoking questions that tes
  4️⃣ How do you find the first and last record per group using SQL?
  5️⃣ How can you calculate the percentage contribution of each row to a total?
  6️⃣ How do you handle NULL values in aggregations like SUM and AVG?
- 7️⃣ How can you split a comma-separated string into multiple rows?
- 8️⃣ What’s the difference between DELETE, TRUNCATE, and DROP?
- 9️⃣ How do you find gaps in a sequence of numbers (like missing order IDs)?
- 🔟 How do you fetch records from a table based on a dynamic date range (last 7, 30, 90 days)?
- 1️⃣1️⃣ How do you identify duplicate rows based on multiple columns?
- 1️⃣2️⃣ How can you swap values between two columns without using a temporary table?
- 1️⃣3️⃣ How do you find the top-performing category by total sales?
- 1️⃣4️⃣ What’s the difference between a subquery and a CTE, and when would you prefer one?
- 1️⃣5️⃣ How do you convert rows into columns without using PIVOT?
- 1️⃣6️⃣ How can you identify customers with consecutive-day activity?
- 1️⃣7️⃣ How do you find records updated in the last X minutes or hours?
- 1️⃣8️⃣ What’s the difference between RANK() and NTILE()?
- 1️⃣9️⃣ How do you detect sudden spikes or drops in metrics using SQL?
- 2️⃣0️⃣ How do you rewrite a correlated subquery to improve performance?
-
-SQL is powerful, but the right questions make you think beyond the basics. Which of these do you find the trickiest? Let’s discuss!
-
 
