@@ -37,7 +37,5 @@ SQL interviews can be tricky! Here are some thought-provoking questions that tes
 1️⃣ How do you compare two tables and find records that exist in one but not the other?
  2️⃣ How can you remove leading and trailing spaces from a column, and why does it matter in joins?
  3️⃣ What’s the difference between INNER JOIN and CROSS JOIN?
- 4️⃣ How do you find the first and last record per group using SQL?
- 5️⃣ How can you calculate the percentage contribution of each row to a total?
- 6️⃣ How do you handle NULL values in aggregations like SUM and AVG?
+
 
