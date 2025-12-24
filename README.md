@@ -38,4 +38,8 @@ SQL interviews can be tricky! Here are some thought-provoking questions that tes
  2️⃣ How can you remove leading and trailing spaces from a column, and why does it matter in joins?
  3️⃣ What’s the difference between INNER JOIN and CROSS JOIN?
 
+Hi [Recruiter Name],
 
+I see that my application for the [Role Name] role has been shortlisted. Thank you for the update.
+
+I’m keen to move forward and would love to understand the next steps in the process. Please let me know if you need anything further from my side.
