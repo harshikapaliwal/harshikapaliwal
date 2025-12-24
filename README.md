@@ -30,12 +30,3 @@ Data is fun to work with | Data Science Enthusiast
 
 📫 How to reach me harshitapaliwal1195@gmail.com
 
-"I thought I knew SQL... until my interviewer asked me these!"
-
-SQL interviews can be tricky! Here are some thought-provoking questions that tested my knowledge:
-
-1️⃣ How do you compare two tables and find records that exist in one but not the other?
- 2️⃣ How can you remove leading and trailing spaces from a column, and why does it matter in joins?
- 3️⃣ What’s the difference between INNER JOIN and CROSS JOIN?
-
-I’m keen to move forward and would love to understand the next steps in the process. Please let me know if you need anything further from my side.
