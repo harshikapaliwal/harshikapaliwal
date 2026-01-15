@@ -34,5 +34,4 @@ Regularization is a technique used to reduce model complexity and prevent overfi
 
 Ways to Apply Regularization:
 
-L1 Regularization (Lasso): Adds the absolute value of weights as a penalty which can shrink some weights to zero and perform feature selection.
-L2 Regularization (Ridge): Adds 
+ 
