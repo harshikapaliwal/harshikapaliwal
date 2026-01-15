@@ -29,9 +29,4 @@ Data is fun to work with | Data Science Enthusiast
 👨‍💻 All of my assignments are available at My Assignments
 
 📫 How to reach me harshitapaliwal1195@gmail.com
-3. What is Regularization?
-Regularization is a technique used to reduce model complexity and prevent overfitting. It works by adding a penalty term to the loss function to discourage the model from assigning too much importance (large weights) to specific features. This helps the model generalize better on unseen data.
-
-Ways to Apply Regularization:
-
  
