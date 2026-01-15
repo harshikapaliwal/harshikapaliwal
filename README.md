@@ -35,6 +35,4 @@ Regularization is a technique used to reduce model complexity and prevent overfi
 Ways to Apply Regularization:
 
 L1 Regularization (Lasso): Adds the absolute value of weights as a penalty which can shrink some weights to zero and perform feature selection.
-L2 Regularization (Ridge): Adds the squared value of weights as a penalty which reduces large weights but doesn’t eliminate them.
-Elastic Net: Combines both L1 and L2 penalties to balance feature selection and weight reduction.
-Dropout (for Neural Networks): Randomly drops neurons during training to avoid over-reliance on specific nodes.
+L2 Regularization (Ridge): Adds 
